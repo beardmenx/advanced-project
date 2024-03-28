@@ -1,3 +1,5 @@
 import { someFn } from './test';
 
-someFn(1213);
+someFn(123);
+
+document.body.innerHTML = `<div style="background: yellow">HELLO WORLD!</div>`;
